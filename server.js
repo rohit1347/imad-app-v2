@@ -23,7 +23,7 @@ var articles={
 'article-two':{
     title: 'Article Two | Rohit Kumar',
   heading:'Article Two',
-  date: '6th Feb 2017',
+  date: '7th Feb 2017',
   content:`<p>
                 This is the content for my second article. This is the content for my first article. This is the content for my first article. This is the content for my first article. This is the content for my first article. This is the content for my first article. This is the content for my first article. This is the content for my first article.
             </p>
@@ -37,7 +37,7 @@ var articles={
 'article-three':{
     title: 'Article Three | Rohit Kumar',
   heading:'Article Three',
-  date: '6th Feb 2017',
+  date: '7th Feb 2017',
   content:`<p>
                 This is the content for my third article. This is the content for my first article. This is the content for my first article. This is the content for my first article. This is the content for my first article. This is the content for my first article. This is the content for my first article. This is the content for my first article.
             </p>
