@@ -10,16 +10,16 @@ app.get('/', function (req, res) {
 });
 
 app.get('/article-one', function(req,res){
-    res.send('Artcle one has been requested and will be served here')
-})
+    res.send('Artcle one has been requested and will be served here');
+});
 
 app.get('/article-two', function(req,res){
-    res.send('Artcle two has been requested and will be served here')
-})
+    res.send('Artcle two has been requested and will be served here');
+});
 
 app.get('/article-three', function(req,res){
-    res.send('Artcle three has been requested and will be served here')
-})
+    res.send('Artcle three has been requested and will be served here');
+});
 
 app.get('/ui/style.css', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'style.css'));
