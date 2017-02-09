@@ -19,7 +19,7 @@ button.onclick=function(){
     //Make a request to the counter endpoint
 var request=new XMLHttpRequest();
     //Capture the request and store it in a variable
-request.onreadystatechange=fucntion(){
+request.onreadystatechange=function(){
     if(request.readyState===XMLHttpRequest.DONE){
         if(request.status===200){
             var counter= request.responseText;
