@@ -29,7 +29,7 @@ request.onreadystatechange=function(){
     }
 
 };
-request.open('GET', 'http://rohit1347.imad.hasura-app.imad.io/counter',true);
+request.open('GET', 'rohit1347.imad.hasura-app.io/counter',true);
 request.send(null);
     
     
